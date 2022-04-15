@@ -75,6 +75,7 @@ namespace esp8266_read_by_naim {
             }
         }
         return "&str"
+
     }
 
 }
